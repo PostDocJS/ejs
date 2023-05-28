@@ -1,5 +1,8 @@
 {
-  "name": "ejs",
+  "name": "@postdoc/ejs",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Embedded JavaScript templates",
   "keywords": [
     "template",
